@@ -1,5 +1,6 @@
 ## Favihash.py
 ### This tool was designed to calculate favicon hash that can be used to retrieve more information about a domain/company and discover more assets.
+##### This script is designed for educational purposes. Use with responsability
 
 **Usage:**
 
