@@ -4,7 +4,7 @@
 
 **Usage:**
 
-`git clone https://github.com/p4b3l1t0/favihash.git && mv favihash`
+`git clone https://github.com/p4b3l1t0/favihash.git && cd favihash`
 
 `pip3 install -r requirements.txt`
 
