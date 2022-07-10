@@ -4,12 +4,12 @@
 
 **Usage:**
 
-`git clone https://github.com/p4b3l1t0/favihash.git && cd favihash`
-
-`pip3 install -r requirements.txt`
-
-`chmod +x favihash.py`
-
-`python3 favihash.py`
+    git clone https://github.com/p4b3l1t0/favihash.git && cd favihash
+** **  
+    pip3 install -r requirements.txt 
+** **
+    chmod +x favihash.py
+** **
+    python3 favihash.py
 
 "write the domain and wait for the result!"
