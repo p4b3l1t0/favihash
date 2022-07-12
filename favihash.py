@@ -1,10 +1,16 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+# Autor:   Pablo Salinas
+# Linkedin: https://www.linkedin.com/in/00011001/
+# Nota:     Usarlo bajo responsabilidad
+# Licencia:  MIT License (http://www.opensource.org/licenses/mit-license.php)
+# Version : 1.0
 
 from importlib.resources import path
 import mmh3
 import requests
 import codecs
-import argparse
 
 def banner():
     print(
@@ -20,7 +26,6 @@ def banner():
     
 banner()
 
-#path_file = "/path/static/to/file"
 domain = input("please insert the domain or IP: \n")
 
 def readDomain():
